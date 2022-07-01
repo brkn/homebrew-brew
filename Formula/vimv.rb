@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Vimv < Formula
   desc "vimv is a terminal-based file rename utility that lets you easily mass-rename files using Vim"
   homepage "https://github.com/thameera/vimv"
